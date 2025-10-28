@@ -7,7 +7,7 @@ This is a draft of a clinical study designer that enables you to identify clinic
 
 To be clear, this is as much a tool for understanding clinical study design as it is for understanding the USDM 4.0 model.  
 
-![Image Description](./images/placeholder.png)
+![Image Description](./images/msbLogoAndTitle.png)
 
 ## Contribution
 
