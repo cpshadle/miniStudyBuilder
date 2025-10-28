@@ -5,14 +5,7 @@ This is a draft of a clinical study designer that enables you to identify clinic
 To be clear, this is as much a tool for understanding clinical study design as it is for understanding the USDM 4.0 model.  
 
 
-![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)
 
-**License**: This template is using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). So you can copy or fork this template without the need to reference. Keep attribution from CODE_OF_CONDUCT as this uses CC-BY-4.0. The license files contained are meant to be used for the final open source project you run.
-
-TODO:
-
-* update readme for your project needs, e.g. use CC0 or CC-BY-4.0 license
-* update LICENSE, [INCLUDE COPYRIGHT INSTANCE] -> e.g. Project XY, CDISC, John Doe
 * update CODE_OF_CONDUCT, [INSERT CONTACT METHOD] -> e.g. <example@example.com>
 * update CONTRIBUTION.md if you want to provide additional rules or guidances, for example naming conventions
 
