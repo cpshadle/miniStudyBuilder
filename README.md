@@ -1,12 +1,9 @@
-# COSAHackathonTemplate
+# miniStudyBuilder
 
-This is a template for COSA workshops/open source projects which could be used to create new projects.
+This is a draft of a clinical study designer that enables you to identify clinical study requirements and generate a USDM.JSON file containing critical data, including biomedical concepts.  
 
-## How to use this template (remove this section)
+To be clear, this is as much a tool for understanding clinical study design as it is for understanding the USDM 4.0 model.  
 
-You can copy this template and use this for your open source project, workshops, hackathons or similar where participants should contribute content. Please update the README and other files depending on your requirements, project description etc. You find various "How Tos" documents if you or your expected contributors are not familar with setting up and working with repositories. Feel free to remove no longer applicable ones for your own repository.
-
-You might want to checkout [makeareadme.com](https://www.makeareadme.com) to gain additional guidance and options for a typical README file.
 
 ![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)
 
