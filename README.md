@@ -1,26 +1,11 @@
-# miniStudyBuilder
+# *miniStudyBuilder* 
+
+## Description
+
 
 This is a draft of a clinical study designer that enables you to identify clinical study requirements and generate a USDM.JSON file containing critical data, including biomedical concepts.  
 
 To be clear, this is as much a tool for understanding clinical study design as it is for understanding the USDM 4.0 model.  
-
-
-
-* update CODE_OF_CONDUCT, [INSERT CONTACT METHOD] -> e.g. <example@example.com>
-* update CONTRIBUTION.md if you want to provide additional rules or guidances, for example naming conventions
-
-*-------------------------- DELETE EVERYTHIG ABOVE ---------------------------*
-
-
-# *NAME* 
-
-This repository should be used for the *Project/Workshop/Hackathon XY* to contain code, minutes, notes, outcomes, discussions and more. It is meant to allow anyone working with the results and discussions to allow flexible collaboration and follow up projects.
-
-## Description
-
-The main purpose of *Project Name* is to ....
-
-If possible use images as well.
 
 ![Image Description](./images/placeholder.png)
 
